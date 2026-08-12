@@ -2,7 +2,7 @@
 
 Bem-vindos ao repositório da disciplina de Linguagem de Programação Python do curso de Sistemas de Informação (2º Semestre/2026).
 
-Este espaço será o nosso laboratório prático. Aqui, vamos versionar nossos códigos, acompanhar a evolução do nosso aprendizado e simular um ambiente real de desenvolvimento e Gestão de TI.
+Este espaço será o nosso laboratório prático. Aqui, vamos versionar nossos códigos, acompanhar a evolução do nosso aprendizado e simular um ambiente real de desenvolvimento.
 
 Link do formulário para solicitar acesso de Colaborador: https://forms.gle/NKnkfhpYnLqfzLSFA
 ---
