@@ -24,10 +24,15 @@ Ao realizar a integração do Google Colab com o GitHub, certifique-se de salvar
 ### 3. Como fazer o Commit via Google Colab
 1. No menu superior do Colab, clique em **Arquivo** > **Salvar uma cópia no GitHub**.
 2. Selecione este repositório (`python_sis_26_2`).
-3. No campo "Caminho do arquivo" (File path), adicione a pasta da aula antes do nome do seu arquivo. Ex: `aula_02/carlos_silva_aula02.ipynb`.
+3. No campo "Caminho do arquivo" (File path), adicione a pasta da aula antes do nome do seu arquivo. Ex: `aula_02/taciany_lima_aula02.ipynb`.
 4. Escreva uma **Mensagem de Commit** clara e descritiva. 
    * *Evite:* "salvando código" ou "atualização".
    * *Prefira:* "feat: adiciona declaração de variáveis e inputs da aula 02".
+
+### 4. Data de Entrega
+1. Os exercícios das aulas do primeiro Bimestre devem ser entregues até dia 30/09/2026.
+2. Os exercícios exercícios das aulas do segundo Bimestre devem ser feitos até dia 25/11/2026.
+3. Caso tenha dificuldades em inserir no repositório, solicite ajuda e mande o material até a data prevista no e-mail para taciany.lima@santacruz.br
 
 ---
 
