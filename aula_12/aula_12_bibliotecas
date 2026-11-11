@@ -15,7 +15,7 @@ def executar_pipeline_telemetria_infraestrutura():
     disponivel_ram_gb = memoria_ram.available / (1024 ** 3)
     uso_ram_pct = memoria_ram.percent
     print(f"Memória RAM         : {uso_ram_pct}% em uso | {disponivel_ram_gb:.2f} GB livres de {total_ram_gb:.2f} GB") 
-    
+    print(memoria_ram)
     # 3. Coleta de Dados de Armazenamento (Disco Principal)
     armazenamento_disco = psutil.disk_usage('/')
     total_disco_gb = armazenamento_disco.total / (1024 ** 3)
@@ -29,7 +29,7 @@ def executar_pipeline_telemetria_infraestrutura():
     bytes_enviados_mb = telemetria_rede.bytes_sent / (1024 ** 2)
     bytes_recebidos_mb = telemetria_rede.bytes_recv / (1024 ** 2)
     print(f"Tráfego I/O Rede    : TX: {bytes_enviados_mb:.2f} MB | RX: {bytes_recebidos_mb:.2f} MB")
-   
+    #print(telemetria_rede)
 
 # Invocação do agente de telemetria
 executar_pipeline_telemetria_infraestrutura()
