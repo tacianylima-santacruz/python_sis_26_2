@@ -1,0 +1,6 @@
+2026-10-14 08:30:15 - INFO - Sistema inicializado com sucesso
+2026-10-14 08:31:02 - INFO - Usuario 'admin' realizou login
+2026-10-14 08:35:22 - AVISO - Tentativa de acesso com senha incorreta: usuario 'bat'
+2026-10-14 08:35:40 - SUCESSO - Usuario 'bat' realizou login
+2026-10-14 08:40:11 - ERRO - Falha ao conectar ao banco de dados: timeout
+2026-10-14 08:42:00 - INFO - Conexao reestabelecida
